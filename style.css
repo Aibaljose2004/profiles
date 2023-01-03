@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    scroll-behavior: smooth;
+}
+
+.card{
+    margin:20px;
+    background:white;
+    height: 200px;
+    width:90% ;
+    border-radius:12px;
+    font-size:200px;
+    
+    
+    
+    
+}
+body{
+  background:#eeeeee;
+}
+.scroll{
+padding:20px;
+    overflow:auto;
+    white-space: nowrap;
+}
+.date{
+
+  /* From https://css.glass */
+
+    height: 60px;
+    width:120px;
+   margin:5px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.tool{
+    margin-top:14px;
+    width: 100%;
+    padding-left:30px;
+    padding-right:30px;
+    display :flex;
+    justify-content: space-between;
+    align-items:center;
+    
+    
+}
+.tool-ele{
+    height: 60px;
+    width: 180px;
+    background: white;
+    border-radius: 8px;
+    padding-left:20px;
+    color:#898989;
+}
+.center{
+    display :flex;
+    
+    align-items:center;
+}
+text-center{
+    text-align:center;
+}
+.circle{
+    background: #ee4fba;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin-right:10px;
+    display :flex;
+    justify-content:center;
+    align-items:center;
+    color: white;
+    font-size:40px;
+}
+i{
+    
+}
+.bg1{
+    background: #c46aff;
+}
+
+.bg2{
+    background: #9c95ff;
+}
+.bg3{
+    background: #ff742b;
+}
+.circle1{
+    
+    height: 160px;
+    width: 160px;
+    border-radius: 80px;
+    margin-left:20px;
+    margin-right:10px;
+    display :flex;
+    justify-content:center;
+    align-items:center; 
+    color: white;
+    font-size:140px;
+    }
+    
+    .text H1{
+        font-size:26px;
+        fint-weight:400px;
+    }
+     
+    .text H3{
+        font-size:12px;
+        font-weight:200px;
+        color:#636363;
+    }
+    .text{
+        margin:10px;
+    }
+    .text p{
+        font-size:8px;
+        font-weight:200px;
+        
+    }
+    
+    .cent{
+    height: 100%;
+    width: 100%;
+        display :flex;
+    justify-content:center;
+    align-items:center;
+    
+    border-radius: 16px;
+    }
+.ax{
+    font-size:100px;
+    color:#bababa;
+}
+.centeri{
+    display :flex;
+    justify-content:center;
+    
+}
+.sx{
+    font-size:60px;
+    color: #d2d2d2;
+}
+.short-card{
+    background: white;
+    height: 60px;
+    width: 90%;
+    border-radius: 18px;
+}
+.ix{
+    margin-top:30px;
+}
